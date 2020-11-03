@@ -1,6 +1,7 @@
 # Eco cosmetics landing page
 Implemented landing page according to [Figma design](https://www.figma.com/file/Jryi2RU2LgK2bfwsxldABC/brand_of_eco-cosmetics-(Copy))
-Full responsive:
+
+Full responsive for:
 - Large screens 2560px
 - Full HD 1920px
 - The design 1600px
